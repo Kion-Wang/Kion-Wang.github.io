@@ -1,10 +1,3 @@
 # Authors
 
-default:
-  name        : "Kion Wang"
-  uri         : ""
-  email       : "wongsteve077@gmail.com"
-  bio         : "Computer Science student interested in systems and AI."
-  avatar      : "avatar.jpg"
-  github      : "Kion-Wang"
-  location    : "China"
+
