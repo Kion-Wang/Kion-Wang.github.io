@@ -23,7 +23,7 @@ repository               : "kion-wang/kion-wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/avatar.jpg"
+  avatar           : "avatar.jpg"
   name             : "Kion Wang"
   pronouns         : "he/him"
   bio              : "publish or perish"
